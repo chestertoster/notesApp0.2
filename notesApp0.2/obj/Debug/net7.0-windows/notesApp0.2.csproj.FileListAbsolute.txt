@@ -1,0 +1,17 @@
+C:\Users\infor\source\repos\notesApp0.2\notesApp0.2\bin\Debug\net7.0-windows\notesApp0.2.exe
+C:\Users\infor\source\repos\notesApp0.2\notesApp0.2\bin\Debug\net7.0-windows\notesApp0.2.deps.json
+C:\Users\infor\source\repos\notesApp0.2\notesApp0.2\bin\Debug\net7.0-windows\notesApp0.2.runtimeconfig.json
+C:\Users\infor\source\repos\notesApp0.2\notesApp0.2\bin\Debug\net7.0-windows\notesApp0.2.dll
+C:\Users\infor\source\repos\notesApp0.2\notesApp0.2\bin\Debug\net7.0-windows\notesApp0.2.pdb
+C:\Users\infor\source\repos\notesApp0.2\notesApp0.2\obj\Debug\net7.0-windows\notesApp0._2.MainForm.resources
+C:\Users\infor\source\repos\notesApp0.2\notesApp0.2\obj\Debug\net7.0-windows\notesApp0.2.csproj.GenerateResource.cache
+C:\Users\infor\source\repos\notesApp0.2\notesApp0.2\obj\Debug\net7.0-windows\notesApp0.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\infor\source\repos\notesApp0.2\notesApp0.2\obj\Debug\net7.0-windows\notesApp0.2.AssemblyInfoInputs.cache
+C:\Users\infor\source\repos\notesApp0.2\notesApp0.2\obj\Debug\net7.0-windows\notesApp0.2.AssemblyInfo.cs
+C:\Users\infor\source\repos\notesApp0.2\notesApp0.2\obj\Debug\net7.0-windows\notesApp0.2.csproj.CoreCompileInputs.cache
+C:\Users\infor\source\repos\notesApp0.2\notesApp0.2\obj\Debug\net7.0-windows\notesApp0.2.dll
+C:\Users\infor\source\repos\notesApp0.2\notesApp0.2\obj\Debug\net7.0-windows\refint\notesApp0.2.dll
+C:\Users\infor\source\repos\notesApp0.2\notesApp0.2\obj\Debug\net7.0-windows\notesApp0.2.pdb
+C:\Users\infor\source\repos\notesApp0.2\notesApp0.2\obj\Debug\net7.0-windows\notesApp0.2.genruntimeconfig.cache
+C:\Users\infor\source\repos\notesApp0.2\notesApp0.2\obj\Debug\net7.0-windows\ref\notesApp0.2.dll
+C:\Users\infor\source\repos\notesApp0.2\notesApp0.2\obj\Debug\net7.0-windows\notesApp0._2.NotesForm.resources
